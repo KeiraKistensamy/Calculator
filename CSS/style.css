@@ -10,12 +10,13 @@
     padding: 20px 0px;
     border-radius: 5%;
     margin: auto;
-    width: 35%;
+    width: 20%;
     background-color:black;
+    overflow: hidden;
 }
 form input{
     height:50px;
-    width: 80%;
+    width: 70%;
 }
 div .button{
     margin-top:16px;
